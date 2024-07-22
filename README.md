@@ -30,7 +30,7 @@ The Amazon Web Scraper is a python tool that extracts information from Amazon pr
    ```
    pip install beautifulsoup4 requests lxml
    ```
-3. Create a urls.txt file in the project directory and add the Amazon product URLs you want to scrape, one per line.
+3. In the urls.txt file add some Amazon product URLs you want to scrape, one per line.
 
    
 ## **Usage**
