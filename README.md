@@ -2,7 +2,7 @@
 
 # **Summary**
 
-The Amazon Web Scraper is a python tool that extracts information from Amazon product pages, this includes product name, price, rating, number of reviews, and availability. The extracted data is then saved into a CSV file for further analysis or record-keeping
+The Price Tracker Pro is a python tool that extracts information from Amazon product pages, this includes product name, price, rating, number of reviews, and availability. The extracted data is then saved into a CSV file for further analysis or record-keeping
 
 
 
